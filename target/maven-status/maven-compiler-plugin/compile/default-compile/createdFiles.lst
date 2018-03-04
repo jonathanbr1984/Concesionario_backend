@@ -1,0 +1,16 @@
+com\concesionario\sessions\AbstractFacade.class
+com\concesionario\entities\Ventas.class
+com\concesionario\sessions\VentasFacade.class
+com\concesionario\sessions\VehiculosFacade.class
+com\concesionario\REST\service\AbstractFacade.class
+com\concesionario\entities\Ventas_.class
+com\concesionario\entities\Clientes.class
+com\concesionario\entities\Vehiculos_.class
+com\concesionario\sessions\ClientesFacade.class
+com\concesionario\REST\service\VehiculosFacadeREST.class
+com\concesionario\entities\Clientes_.class
+com\concesionario\entities\Vehiculos.class
+com\concesionario\REST\service\VentasFacadeREST.class
+com\concesionario\REST\service\NewCrossOriginResourceSharingFilter.class
+com\concesionario\REST\service\ApplicationConfig.class
+com\concesionario\REST\service\ClientesFacadeREST.class
